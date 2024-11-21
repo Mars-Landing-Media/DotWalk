@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-11-21 01:16:00">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>DotWalk revolutionizes ServiceNow development by enabling dynamic dot-walking directly through GlideAjax scripting.  
+Mars Landing Media LLC (dev: Jon DeLuna)</description>
+<inserted/>
+<name>DotWalk</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>6c9a91bc83c65210223556e0deaad39e</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-11-21 01:16:00</sys_created_on>
+<sys_id>b6aa19bc83c65210223556e0deaad34b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-11-21 01:16:00</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DotWalk">cec0c1f883465210223556e0deaad30c</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_bc7105bc83465210223556e0deaad3c3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-20 23:25:49</sys_created_on><sys_id>bc7105bc83465210223556e0deaad3c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DotWalk.public</sys_name><sys_package display_value="DotWalk" source="cec0c1f883465210223556e0deaad30c">cec0c1f883465210223556e0deaad30c</sys_package><sys_policy/><sys_scope display_value="DotWalk">cec0c1f883465210223556e0deaad30c</sys_scope><sys_security_acl display_value="DotWalk">b87101f883465210223556e0deaad352</sys_security_acl><sys_update_name>sys_security_acl_role_bc7105bc83465210223556e0deaad3c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-20 23:25:49</sys_updated_on><sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1922076741</payload_hash>
+<remote_update_set display_value="DotWalk">b6aa19bc83c65210223556e0deaad34b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-11-21 01:16:00</sys_created_on>
+<sys_id>7aaa19bc83c65210223556e0deaad34c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1934c49f4820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-11-21 01:16:00</sys_updated_on>
+<table>DotWalk</table>
+<target_name>DotWalk.public</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DotWalk">cec0c1f883465210223556e0deaad30c</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b87101f883465210223556e0deaad352</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>DotWalk</name><operation display_value="execute">execute</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-20 23:25:49</sys_created_on><sys_id>b87101f883465210223556e0deaad352</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DotWalk</sys_name><sys_package display_value="DotWalk" source="cec0c1f883465210223556e0deaad30c">cec0c1f883465210223556e0deaad30c</sys_package><sys_policy/><sys_scope display_value="DotWalk">cec0c1f883465210223556e0deaad30c</sys_scope><sys_update_name>sys_security_acl_b87101f883465210223556e0deaad352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-20 23:25:49</sys_updated_on><type display_value="client_callable_script_include">client_callable_script_include</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-221604517</payload_hash>
+<remote_update_set display_value="DotWalk">b6aa19bc83c65210223556e0deaad34b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-11-21 01:16:00</sys_created_on>
+<sys_id>b6aa19bc83c65210223556e0deaad34c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1934c49f4770000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-11-21 01:16:00</sys_updated_on>
+<table>DotWalk</table>
+<target_name>DotWalk</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DotWalk">cec0c1f883465210223556e0deaad30c</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_69218d7c83465210223556e0deaad3d0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.DotWalk&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;DotWalk&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var DotWalk = Class.create();
+DotWalk.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+
+    /**
+     * Retrieves data dynamically using dot-walking for specified variables.
+     * @returns {string} JSON string representing the queried data.
+     */
+    getDotData: function () {
+        var vars;
+        var dataset = [];
+        var sysparmvars = this.getParameter('sysparm_variables');
+        var variables = sysparmvars.split(",");
+        var tbl = this.getParameter('sysparm_tbl');
+        var qry = this.getParameter('sysparm_query');
+
+        // Apply the table and encoded query
+        var rec = new GlideRecord(tbl);
+        var rec_q = qry;
+        rec.addQuery(rec_q);
+        rec.query();
+
+        if (rec.next()) {
+            // Initialize variables
+            vars = {};
+            var vr;
+            var vr_ext;
+            var vr_lbl;
+
+            // Loop through user-provided variables array to generate object output
+            for (var i = 0; i &lt; variables.length; i++) {
+
+                // If the field name has a '-'
+                if (variables[i].includes("-")) {
+                    var v = variables[i];
+                    vr_ext = "";
+                    vr_lbl = v.replace('-', '_');
+                    var fieldParts = v.split("-");
+
+                    // Traverse the field name to dynamically create object attributes
+                    fieldParts.forEach(function (part) {
+                        vr_ext += "." + part;
+                    });
+
+                    // Dot-walking object string
+                    vr_ext = "rec" + vr_ext + ".toString();";
+
+                    // Execute dot-walk string as code by 'eval' function
+                    vars[vr_lbl] = eval(vr_ext);
+                } else {
+                    // If the field name does not have '-'
+                    vr = variables[i];
+                    vars[variables[i]] = rec[vr].toString();
+                }
+            }
+
+            // Package the dataset
+            dataset.push(vars);
+        }
+
+        var json = new JSON();
+        var data = json.encode(vars); // JSON formatted string
+        return data;
+    },
+
+    type: 'DotWalk'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-20 23:25:48&lt;/sys_created_on&gt;&lt;sys_id&gt;69218d7c83465210223556e0deaad3d0&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DotWalk&lt;/sys_name&gt;&lt;sys_package display_value="DotWalk" source="cec0c1f883465210223556e0deaad30c"&gt;cec0c1f883465210223556e0deaad30c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DotWalk"&gt;cec0c1f883465210223556e0deaad30c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_69218d7c83465210223556e0deaad3d0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-20 23:31:01&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;69218d7c83465210223556e0deaad3d0&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-20 23:25:48&lt;/sys_created_on&gt;&lt;sys_id&gt;e871817c83465210223556e0deaad392&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-20 23:25:48&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_include&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-135535421</payload_hash>
+<remote_update_set display_value="DotWalk">b6aa19bc83c65210223556e0deaad34b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-11-21 01:16:00</sys_created_on>
+<sys_id>f2aa19bc83c65210223556e0deaad34c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1934c49f4910000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-11-21 01:16:00</sys_updated_on>
+<table/>
+<target_name>DotWalk</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DotWalk">cec0c1f883465210223556e0deaad30c</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_cec0c1f883465210223556e0deaad30c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>DS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>helsinki_es5</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>DotWalk</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description>DotWalk revolutionizes ServiceNow development by enabling dynamic dot-walking directly through GlideAjax scripting.  
+
+Mars Landing Media LLC (dev: Jon DeLuna)</short_description><source>cec0c1f883465210223556e0deaad30c</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-20 23:22:54</sys_created_on><sys_id>cec0c1f883465210223556e0deaad30c</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-20 23:31:43</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=cec0c1f883465210223556e0deaad30c"/></record_update>]]></payload>
+<payload_hash>-1211915328</payload_hash>
+<remote_update_set display_value="DotWalk">b6aa19bc83c65210223556e0deaad34b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-11-21 01:16:00</sys_created_on>
+<sys_id>faaa19bc83c65210223556e0deaad34b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1934c49f45d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-11-21 01:16:00</sys_updated_on>
+<table/>
+<target_name>DotWalk</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
