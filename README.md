@@ -5,7 +5,6 @@
 ---
 
 ## Description
-**Note: The script include was updated with GlideRecordSecure on 21 November 2024.
 
 DotWalk is a powerful ServiceNow tool designed to extend the capabilities of dot-walking into **GlideAjax scripting**. With DotWalk, developers can dynamically retrieve related fields and records across complex relationships directly from client-side scripts, enabling seamless data access and reducing the need for extensive back-end logic. This tool is perfect for ServiceNow developers looking to streamline data integration and enhance performance.
 
@@ -27,6 +26,8 @@ DotWalk is a powerful ServiceNow tool designed to extend the capabilities of dot
 2. Create or update your client scripts to use the GlideAjax calls provided in the documentation.
 3. Configure your `sysparm_variables` and ensure the naming conventions are followed (see [technical_documentation.txt](technical_documentation.txt)).
 4. Test your configurations using the provided test script template ([test_script.txt](test_script.txt)).
+
+**Note: The script include was updated with GlideRecordSecure on 21 November 2024.
 
 ---
 
