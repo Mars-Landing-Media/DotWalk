@@ -1,4 +1,10 @@
-# DotWalk by [Your Company Name]
+# Mars Landing Media LLC - DotWalk: Simplify Relationships, Empower Data.
+
+**Developer**: Jon DeLuna  
+
+---
+
+## Description
 
 DotWalk is a powerful ServiceNow tool designed to extend the capabilities of dot-walking into **GlideAjax scripting**. With DotWalk, developers can dynamically retrieve related fields and records across complex relationships directly from client-side scripts, enabling seamless data access and reducing the need for extensive back-end logic. This tool is perfect for ServiceNow developers looking to streamline data integration and enhance performance.
 
